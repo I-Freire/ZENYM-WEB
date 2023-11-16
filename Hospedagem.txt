@@ -1,0 +1,3 @@
+~ $ git clone https://github.com/IsaSFreire/zenymm
+~ $ cd IsaSFreire.github.io
+~ $ echo "Hello World" > index.html
